@@ -4,8 +4,6 @@ This is a Simple banking Application Using Core and some OOPS Concepts.
        
        
  * The Application has Perferomed Following Operations..
- 
-        
       -> Check Balance
       -> Deposit Amount
       -> Withdrawal Amount 
@@ -16,8 +14,8 @@ This is a Simple banking Application Using Core and some OOPS Concepts.
 =======================================================================
 
   Made By :
-          Shahad Tuglak
-          tuglakshahad@gmail.com
+       *   Shahad Tuglak
+       *  tuglakshahad@gmail.com
           
           
 =======================================================================
